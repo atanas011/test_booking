@@ -1,4 +1,5 @@
 The test is written in Java (Eclipse IDE), using TestNG framework, for Google Chrome browser on Windows 7 PC.
+The project is in line with POM (Page Object Model).
 
 User story:
 ===========
